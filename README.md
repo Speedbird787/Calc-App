@@ -1,4 +1,4 @@
-# A basic calculator App created using React js as part of a technical test.
+# A basic calculator App created using React, js, HTML and CSS as part of a technical test.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
